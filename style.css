@@ -49,3 +49,25 @@ body {
 .navigation ul li a:hover{
     color: var(--red);
 }
+.navigation icone {
+    cursor: pointer;
+    font-size: 20px;
+}
+.menu {
+    cursor: pointer;
+    display: none;
+}
+.menu .bar {
+    display: block;
+    width: 20px;
+    height: 3px;
+    border-radius: 3px;
+    background-color: var(--dark);
+    margin: 5px auto;
+    transition: all 0,3s;
+
+}
+.menu .bar:nth-child(1),
+.menu .bar:nth-child(3) {
+    background-color: var(--red);
+}
