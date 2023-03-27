@@ -12,3 +12,13 @@ A aplicação consiste em uma pagina Web, desenvolvida para uma loja de automóv
 
 # Layout Web
 ![carweb](https://user-images.githubusercontent.com/108073449/228089014-25f0b93d-905e-4dbf-9b58-84d7bcf18351.jpeg)
+
+# Tecnologias Utilizadas
+
+## Front end
+
+- javaScript/CSS/HTML
+
+## Implantação em produto
+
+- Front end web: Netlify
