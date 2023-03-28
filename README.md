@@ -19,6 +19,9 @@ A aplicação consiste em uma pagina Web, desenvolvida para uma loja de automóv
 # Layout Web
 ![carweb](https://user-images.githubusercontent.com/108073449/228089014-25f0b93d-905e-4dbf-9b58-84d7bcf18351.jpeg)
 
+# Layout Mobile
+![layoutmobile](https://user-images.githubusercontent.com/108073449/228282566-87577521-a98c-4002-b34a-e9144399780d.jpeg)
+
 # Tecnologias Utilizadas
 ## Front end
 - javaScript/CSS/HTML
